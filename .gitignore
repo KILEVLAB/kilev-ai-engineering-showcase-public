@@ -1,0 +1,10 @@
+# Local outreach materials, not part of the public engineering showcase.
+email_draft_id.md
+github_showcase_plan.md
+permata_outreach_brief.md
+
+# Local environment and dependencies.
+.env
+node_modules/
+.DS_Store
+coverage/

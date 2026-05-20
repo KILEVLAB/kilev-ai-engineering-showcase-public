@@ -1,0 +1,18 @@
+{
+  "brandCore": {
+    "positioning": "A calm, memorable coffee workspace for young founders in Canggu.",
+    "tone": ["warm", "focused", "clear"],
+    "customerPromise": "A place where work feels lighter and meetings feel natural."
+  },
+  "nameDirections": [
+    {
+      "name": "Ruang Kopi",
+      "rationale": "Simple Indonesian phrasing that connects coffee with usable space."
+    },
+    {
+      "name": "Calm Cup",
+      "rationale": "International but easy to remember, with a quiet productivity signal."
+    }
+  ],
+  "qualityScore": 0.91
+}
